@@ -1,7 +1,3 @@
-git remote add origin git@github.com:biancac-andrade/biancac-to-do-react-native-expo-firebase.git
-git branch -M main
-git push -u origin main
-
 # Aplicativo básica de To-Do
 
 #### Aplicativo foi construido com a linguagem de Javascript, styles component para estilação do aplicativo , com framework React Native.
