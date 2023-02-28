@@ -85,3 +85,21 @@ Clica em register no aplicativo
 
 #### Dias trabalhados:
 - Aproxidamente em 3 dias
+
+
+### Imagens do Aplicativo
+1. Login
+
+![Login](https://raw.githubusercontent.com/biancac-andrade/biancac-to-do-react-native-expo-firebase/images/login.jpeg)
+
+2. Adiciona Tarefa
+
+![Adiciona Tarefa](https://raw.githubusercontent.com/biancac-andrade/biancac-to-do-react-native-expo-firebase/images/editaLista.jpeg)
+
+3. Lista de Tarefa
+   
+![Lista Tarefa](https://raw.githubusercontent.com/biancac-andrade/biancac-to-do-react-native-expo-firebase/images/lista.jpeg)
+
+4. Altera tarefa
+   
+![Edita Tarefa](https://raw.githubusercontent.com/biancac-andrade/biancac-to-do-react-native-expo-firebase/images/updateLista.jpeg)
